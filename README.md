@@ -4,13 +4,9 @@ Product Engineer building **data products, developer tools, and AI‑assisted wo
 
 I enjoy working where **product thinking, systems design, and great UX meet** — especially when complex data needs to become something simple and useful.
 
----
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LawrenceHunt&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceHunt&layout=compact&theme=transparent)
-
----
 
 ## Currently Exploring
 
@@ -19,8 +15,6 @@ I enjoy working where **product thinking, systems design, and great UX meet** �
 - AI‑assisted software development
 - Modern serverless / edge systems
 - Teaching system design through real‑world examples
-
----
 
 ## What I work with
 
@@ -48,8 +42,6 @@ I enjoy working where **product thinking, systems design, and great UX meet** �
 - Infrastructure as Code
 - Scalable data processing
 
----
-
 ## Selected Projects
 
 ### Obsidian Power Tools
@@ -64,8 +56,6 @@ Tools focused on:
 
 → [Visit the project here](https://github.com/LawrenceHunt/obsidian-power-tools)
 
----
-
 ## How I Like to Build Software
 
 Some principles that guide my work:
@@ -75,8 +65,6 @@ Some principles that guide my work:
 - **Optimise for iteration speed**
 - **Build observability into data products**
 - **Use architecture as a competitive advantage**
-
----
 
 ## Interests
 
@@ -88,8 +76,6 @@ Outside of day‑to‑day engineering I'm interested in:
 - Technical education
 - Developer experience
 
----
-
 ## Writing & Ideas
 
 Occasionally exploring ideas like:
@@ -98,4 +84,3 @@ Occasionally exploring ideas like:
 - building modern data products
 - AI‑assisted development workflows
 - engineering strategy for startups
-
