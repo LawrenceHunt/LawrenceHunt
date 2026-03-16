@@ -4,10 +4,6 @@ Product Engineer building **data products, developer tools, and AI‑assisted wo
 
 I enjoy working where **product thinking, systems design, and great UX meet** — especially when complex data needs to become something simple and useful.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LawrenceHunt&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceHunt&layout=compact&theme=transparent)
-
 ## Currently Exploring
 
 - Agentic AI workflows
@@ -41,30 +37,6 @@ I enjoy working where **product thinking, systems design, and great UX meet** �
 - Kubernetes
 - Infrastructure as Code
 - Scalable data processing
-
-## Selected Projects
-
-### Obsidian Power Tools
-
-Utilities that extend **Obsidian** for deeper knowledge workflows and automation.
-
-Tools focused on:
-
-- power‑user workflows
-- structured knowledge systems
-- automating research and thinking
-
-→ [Visit the project here](https://github.com/LawrenceHunt/obsidian-power-tools)
-
-## How I Like to Build Software
-
-Some principles that guide my work:
-
-- **Start from the product problem, not the technology**
-- **Make complex systems feel simple to the user**
-- **Optimise for iteration speed**
-- **Build observability into data products**
-- **Use architecture as a competitive advantage**
 
 ## Interests
 
