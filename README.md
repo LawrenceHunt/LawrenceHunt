@@ -2,7 +2,7 @@
 
 Product Engineer building **data products, developer tools, and AI‑assisted workflows**.
 
-I enjoy working where **product thinking, systems design, and great UX meet** — especially when complex data needs to become something simple and useful.
+I enjoy working where **product thinking, systems design, and great UX meet**, especially when complex data needs to become something simple and useful.
 
 ## Currently Exploring
 
